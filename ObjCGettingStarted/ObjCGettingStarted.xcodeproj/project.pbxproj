@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0639405F2B8DC19400D2E97B /* Course.m in Sources */ = {isa = PBXBuildFile; fileRef = 0639405E2B8DC19400D2E97B /* Course.m */; };
 		06F9F70E2B889A4F00AC4F36 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 06F9F70D2B889A4F00AC4F36 /* AppDelegate.m */; };
 		06F9F7142B889A4F00AC4F36 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 06F9F7132B889A4F00AC4F36 /* ViewController.m */; };
 		06F9F7172B889A4F00AC4F36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06F9F7152B889A4F00AC4F36 /* Main.storyboard */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0639405D2B8DC19400D2E97B /* Course.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Course.h; sourceTree = "<group>"; };
+		0639405E2B8DC19400D2E97B /* Course.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Course.m; sourceTree = "<group>"; };
 		06F9F7092B889A4F00AC4F36 /* ObjCGettingStarted.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ObjCGettingStarted.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06F9F70C2B889A4F00AC4F36 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		06F9F70D2B889A4F00AC4F36 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				06F9F71A2B889A5100AC4F36 /* LaunchScreen.storyboard */,
 				06F9F71D2B889A5100AC4F36 /* Info.plist */,
 				06F9F71E2B889A5100AC4F36 /* main.m */,
+				0639405D2B8DC19400D2E97B /* Course.h */,
+				0639405E2B8DC19400D2E97B /* Course.m */,
 			);
 			path = ObjCGettingStarted;
 			sourceTree = "<group>";
@@ -261,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0639405F2B8DC19400D2E97B /* Course.m in Sources */,
 				06F9F7142B889A4F00AC4F36 /* ViewController.m in Sources */,
 				06F9F70E2B889A4F00AC4F36 /* AppDelegate.m in Sources */,
 				06F9F71F2B889A5100AC4F36 /* main.m in Sources */,
